@@ -16,7 +16,7 @@ Acesso: Substitua este texto pela URL para acesso ao site publicado
 
 
 #### Desenvolvedor(a)
-Substitua este texto pela sua identificação: nome e curso
+Lorenzo Facco Comunello (Sistemas de Informação)
 
 #### Cliente
 Substitua este texto pela identificação do cliente
