@@ -9,7 +9,7 @@ Acesso:
 
 ## Desenvolvedor(a)
 
-Lorenzo Facco Comunello (Sistemas de Informação)
+Lorenzo Comunello (Sistemas de Informação)
 
 ## Cliente
 
